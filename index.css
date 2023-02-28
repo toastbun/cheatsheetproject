@@ -1,0 +1,35 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1, h3 {
+    color:indianred;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid teal;
+    width: 700px;
+}
+
+td {
+    border-bottom: 1px solid teal;
+    font-size:small;
+    text-align: center;
+    min-width: 75px;
+}
+
+.code {
+    font-family:monospace;
+    background-color:bisque;
+}
+
+.header {
+    font-weight: bold;
+    background-color: lightblue;
+}
